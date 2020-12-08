@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta name="author" content="Filip Strózik & Marcin Witalis">
+		<title>Generate your own Sierpiński Carpet</title>
+
+		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+	</head>
+	<body>
+		<div class="container">
+			<nav>
+				<ul class="nav nav-pills pull-right">
+					<li class="active"><a href="#">Home</a></li>
+					<li><a href="#">About</a></li>
+					<li><a href="#">Contact</a></li>
+				</ul>
+			</nav>
+
+			<h1 class="h3 text-muted">Fractal Generator</h1>
+			<ol class="breadcrumb">
+				<li><a href="#">Peano curve</a></li>
+				<li><a href="#">Dragon curve</a></li>
+				<li class="active">Sierpiński carpet</li>
+			</ol>
+
+			<div class="row">
+				<div class="text-center">
+					%s
+				</div>
+			</div>
+
+			<footer class="footer">
+				<p class="pull-right">
+					Filip Strózik & Marcin Witalis
+				</p>
+				<p>Hack Your Career 2020</p>
+			</footer>
+		</div>
+	</body>
+</html>

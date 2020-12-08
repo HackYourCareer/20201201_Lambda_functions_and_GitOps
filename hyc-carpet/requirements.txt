@@ -1,0 +1,6 @@
+numpy
+Jinja2
+matplotlib==2.2.2
+mpld3
+flask
+gunicorn>=19,<20
